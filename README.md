@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Polymer App Toolbox - Drawer Template
 
 This template is a starting point for building apps using a drawer-based
@@ -73,3 +74,5 @@ those components and their dependencies are added to the list of pre-cached
 components (and will have bundles created in the fallback `bundled` build).
 
 
+
+>>>>>>> 54db78fac85a6d5ce36e4c4baef7e4d2fd0a52f5
